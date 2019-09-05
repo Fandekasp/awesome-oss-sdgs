@@ -1,7 +1,7 @@
 ---
 description: >
   Free and open database for farming and gardening knowledge.
-  Their mission is to develop community and tools for freely sharing plant
+  Their mission is to develop a community and tools for freely sharing plant
   knowledge locally and globally.
 license: MIT, CC0
 name: OpenFarm
@@ -15,10 +15,8 @@ websiteUrl: "https://openfarm.cc/"
 contributionGuidelinesUrl: "https://github.com/openfarmcc/OpenFarm/#development"
 logoUrl: "https://openfarm.cc/assets/openfarm_logo_new_small-\
           ae6a2e6a6d4718949fbaffdf6ba65e5848534b0b3228188b07bd815390bcda33.png"
-starsUrl: "https://img.shields.io/github/stars/org/project.svg\
-           ?style=social&label=Star&maxAge=2592000"
 numberContributors:
-  url: "https://api.github.com/repos/openformcc/OpenFarm/stats/contributors"
+  url: "https://api.github.com/repos/openfarmcc/OpenFarm/stats/contributors"
   format: json
   accessor: list
 
