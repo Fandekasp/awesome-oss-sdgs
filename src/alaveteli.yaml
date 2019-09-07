@@ -3,6 +3,8 @@ description: >
   Platform for making public freedom of information requests to public bodies.
   Alaveteli helps you lower the barriers that prevent citizens asking questions
   of those in power.
+  Alaveteli has been [implemented for 24 different
+  countries](https://alaveteli.org/deployments/)
 license: AGPL 3.0
 name: Alaveteli
 programmingLanguages:
@@ -22,6 +24,11 @@ otherLinks:
       First instance of the Alaveteli software.
       Get answers from the UK government and public sector.
     link: https://www.whatdotheyknow.com/
+  - name: AsktheEU
+    description: >
+      online platform for citizens to send access to documents requests
+      directly to EU institutions.
+    link: https://www.asktheeu.org/
   - name: mySociety
     description: >
       Alaveteli is part of the umbrella organization mySociety.
