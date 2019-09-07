@@ -79,7 +79,7 @@ At the current time it has also been translated into [24 different languages](ht
 ## SDG 16: Peace, Justice and strong institutions
 
 ### Alaveteli
-Platform for making public freedom of information requests to public bodies. Alaveteli helps you lower the barriers that prevent citizens asking questions of those in power.
+Platform for making public freedom of information requests to public bodies. Alaveteli helps you lower the barriers that prevent citizens asking questions of those in power. Alaveteli has been [implemented for 24 different countries](https://alaveteli.org/deployments/)
 
 * rating: 5
 * license: AGPL 3.0
