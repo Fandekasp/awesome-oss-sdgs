@@ -53,7 +53,7 @@ Safecast is a global volunteer-centered **Citizen Science** project working to e
 ## SDG 4: Quality education
 
 ### Kolibri
-The offline app for universal education. Kolibri makes high quality education technology available in low-resource communities such as rural schools, refugee camps, orphanages, non-formal school systems, and prison systems.
+Kolibri makes high quality education technology available in low-resource communities such as rural schools, refugee camps, orphanages, non-formal school systems, and prison systems. It does so by providing an offline application
 
 * rating: 7
 * license: MIT
